@@ -1,0 +1,13 @@
+fr.neloria.neloriapi
+fr.neloria.neloriapi.bungee
+fr.neloria.neloriapi.bungee.listeners
+fr.neloria.neloriapi.bungee.player
+fr.neloria.neloriapi.bungee.player.data
+fr.neloria.neloriapi.bungee.player.manager
+fr.neloria.neloriapi.database
+fr.neloria.neloriapi.mariadb
+fr.neloria.neloriapi.spigot
+fr.neloria.neloriapi.spigot.event
+fr.neloria.neloriapi.spigot.listeners
+fr.neloria.neloriapi.spigot.player
+fr.neloria.neloriapi.spigot.player.manager
